@@ -9,5 +9,6 @@ tensorflow==2.16.2
 darts==0.30.0
 torch==2.3.1
 lightning==2.4.0
+pmdarima==2.0.4
 scikit-learn==1.5.1
-prophet==1.1.5
+termcolor==2.5.0
